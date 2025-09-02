@@ -11,29 +11,44 @@
 
 ### 🔧 Skills & Tools:
 - *Languages*: Python, SQL
-- *Libraries*: NumPy, Pandas, Matplotlib, Seaborn
+- *Libraries*: NumPy, Pandas, Matplotlib, Seaborn,Speech Recognition,pytts
 - *Database*: MySQL
 - *Operating Systems*: Linux
-- *Tools*: VS Code, PyCharm, SQL, Google Colab, GitHub, Metasploit, Brup Suit, Wireshark, Nmap
-- *Soft Skills*: Logical Thinking, Communication, Teamwork, Problem Solving
+- *Tools*: VS Code, PyCharm, SQL, Google Colab, GitHub, Metasploit, Brup Suit, Wireshark, Nmap,n8n for AI agent
+- *Soft Skills*: Logical Thinking, Communication, Teamwork, Problem Solving, Leadership
 - *Networking*: Network Security Fundamentals, Networking Protocols 
 
 ---
 
 ### 👨‍💻 About Me:
 - 🎓 Graduated in *Computer Science and Engineering* from Jansons Institute of Technology College with *81%*.
-- 🧪 Completed an *Certified Penetration tester Certification* at RedTeam Academy.
-- 🔐 Built a *AI model to control a laptop with voice commands* using Python Programing Languate, Machine Leaning and AI model library.
+- 💻 I’m an AI & Machine Learning enthusiast with over 1 year of hands-on experience in building intelligent solutions. I’ve undergone professional training in Artificial Intelligence and Machine Learning       and worked as a Data Science Intern, where I developed practical skills in designing AI models, training ML algorithms, and solving real-world problems with data.
+- 💡  My work includes creating AI agents, chatbots, predictive ML models, and automation workflows that help businesses and individuals leverage the power of AI.
+- 🚀 I’m passionate about applying AI to real-life challenges and continuously learning to stay ahead in this fast-growing field.
+
 
 
 ---
 
 ### 🏆 Achievements:
-- 🧑‍💼 Named as *President of Iterators Club* for 1 years in College.
+- 🧑‍💼 Named as *President of Iterators Club* for 1 year in College.
 - 💻 Participated in multiple *coding competitions*.
 - 🏋 Represented Zonal Level Competition in *Football*.
+  
+  
+---
+
+### 📊 Certification and Training:
+- 📚 Certified Penetration tester - REDTEAM Academy
+- 📫 Attened a training program in Data Science from Dr.Reddy's Foundation.
 
 ---
+
+### 📊 Certification Link:
+<p align="left">
+  <a href="https://drive.google.com/file/d/1Rq20XThkPJ21sJnVLlL_RO5uh1dVGPGD/view?usp=sharing" target="_blank">Certified Penetration Tester Certification Link.Click to view the Certificate</a>
+  <a href="https://drive.google.com/file/d/1S-v69zFMOsMcmy11AYcKzbn1bofmtD-0/view?usp=sharing" target="_blank">Data Science Training Certification Link.Click to view the Certificate</a>
+</p>
 
 ### 🌱 Interests:
 📷 Photography • 🌾 Drawing • 🌐 Tech Surfing • 📚 Trekking
