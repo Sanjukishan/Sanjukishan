@@ -46,9 +46,11 @@
 
 ### 📊 Certification Link:
 <p align="left">
-  <a href="https://drive.google.com/file/d/1Rq20XThkPJ21sJnVLlL_RO5uh1dVGPGD/view?usp=sharing" target="_blank">Certified Penetration Tester Certification Link.Click to view the Certificate</a>
-  <a href="https://drive.google.com/file/d/1S-v69zFMOsMcmy11AYcKzbn1bofmtD-0/view?usp=sharing" target="_blank">Data Science Training Certification Link.Click to view the Certificate</a>
+  <a href="https://drive.google.com/file/d/1Rq20XThkPJ21sJnVLlL_RO5uh1dVGPGD/view?usp=sharing" target="_blank">Certified Penetration Tester Certification Link.Click to view the Certificate /</a>
+  <a href="https://drive.google.com/file/d/1S-v69zFMOsMcmy11AYcKzbn1bofmtD-0/view?usp=sharing" target="_blank">Data Science Training Certification Link.Click to view the Certificate /</a>
 </p>
+
+---
 
 ### 🌱 Interests:
 📷 Photography • 🌾 Drawing • 🌐 Tech Surfing • 📚 Trekking
